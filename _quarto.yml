@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "quarto-theme-test"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+    - morph
+    - styles.scss
+    highlight-style: a11y-dark
+    code-copy: true
+

@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-theme-test",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 31, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 28, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#h2-heading",
+    "href": "posts/post-with-code/index.html#h2-heading",
+    "title": "Post With Code",
+    "section": "h2 Heading",
+    "text": "h2 Heading\n\nh3 Heading\n\nh4 Heading\n\nh5 Heading\n\nh6 Heading"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#horizontal-rules",
+    "href": "posts/post-with-code/index.html#horizontal-rules",
+    "title": "Post With Code",
+    "section": "Horizontal Rules",
+    "text": "Horizontal Rules"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#typographic-replacements",
+    "href": "posts/post-with-code/index.html#typographic-replacements",
+    "title": "Post With Code",
+    "section": "Typographic replacements",
+    "text": "Typographic replacements\nEnable typographer option to see result.\n\n\n\n\n(tm) (TM) (p) (P) +-\n\n\n\n\ntest.. test… test….. test?….. test!….\n!!!!!! ???? ,, – —\n“Smartypants, double quotes” and ‘single quotes’"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#emphasis",
+    "href": "posts/post-with-code/index.html#emphasis",
+    "title": "Post With Code",
+    "section": "Emphasis",
+    "text": "Emphasis\nThis is bold text\nThis is bold text\nThis is italic text\nThis is italic text\nStrikethrough"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#blockquotes",
+    "href": "posts/post-with-code/index.html#blockquotes",
+    "title": "Post With Code",
+    "section": "Blockquotes",
+    "text": "Blockquotes\n\nBlockquotes can also be nested… &gt; …by using additional greater-than signs right next to each other… &gt; &gt; …or with spaces between arrows."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#lists",
+    "href": "posts/post-with-code/index.html#lists",
+    "title": "Post With Code",
+    "section": "Lists",
+    "text": "Lists\nUnordered\n\nCreate a list by starting a line with +, -, or *\nSub-lists are made by indenting 2 spaces:\n\nMarker character change forces new list start:\n\nAc tristique libero volutpat at\nFacilisis in pretium nisl aliquet\nNulla volutpat aliquam velit\n\n\nVery easy!\n\nOrdered\n\nLorem ipsum dolor sit amet\nConsectetur adipiscing elit\nInteger molestie lorem at massa\nYou can use sequential numbers…\n…or keep all the numbers as 1.\n\nStart numbering with offset:\n\nfoo\nbar"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#code",
+    "href": "posts/post-with-code/index.html#code",
+    "title": "Post With Code",
+    "section": "Code",
+    "text": "Code\nInline code\nIndented code\n// Some comments\nline 1 of code\nline 2 of code\nline 3 of code\nBlock code “fences”\nSample text here...\nSyntax highlighting\nvar foo = function (bar) {\n  return bar++;\n};\n\nconsole.log(foo(5));"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#tables",
+    "href": "posts/post-with-code/index.html#tables",
+    "title": "Post With Code",
+    "section": "Tables",
+    "text": "Tables\n\n\n\n\n\n\n\nOption\nDescription\n\n\n\n\ndata\npath to data files to supply the data that will be passed into templates.\n\n\nengine\nengine to be used for processing templates. Handlebars is the default.\n\n\next\nextension to be used for dest files.\n\n\n\nRight aligned columns\n\n\n\n\n\n\n\nOption\nDescription\n\n\n\n\ndata\npath to data files to supply the data that will be passed into templates.\n\n\nengine\nengine to be used for processing templates. Handlebars is the default.\n\n\next\nextension to be used for dest files."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#links",
+    "href": "posts/post-with-code/index.html#links",
+    "title": "Post With Code",
+    "section": "Links",
+    "text": "Links\nlink text\nlink with title\nAutoconverted link https://github.com/nodeca/pica (enable linkify to see)"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#images",
+    "href": "posts/post-with-code/index.html#images",
+    "title": "Post With Code",
+    "section": "Images",
+    "text": "Images\n \nLike links, Images also have a footnote style syntax\n\n\n\nAlt text\n\n\nWith a reference later in the document defining the URL location:"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#plugins",
+    "href": "posts/post-with-code/index.html#plugins",
+    "title": "Post With Code",
+    "section": "Plugins",
+    "text": "Plugins\nThe killer feature of markdown-it is very effective support of syntax plugins.\n\nEmojies\n\nClassic markup: :wink: :cry: :laughing: :yum:\nShortcuts (emoticons): :-) :-( 8-) ;)\n\nsee how to change output with twemoji.\n\n\nSubscript / Superscript\n\n19th\nH2O\n\n\n\n&lt;ins&gt;\n++Inserted text++\n\n\n&lt;mark&gt;\n==Marked text==\n\n\nFootnotes\nFootnote 1 link1.\nFootnote 2 link2.\nInline footnote3 definition.\nDuplicated footnote reference4.\n\n\nDefinition lists\n\nTerm 1\n\nDefinition 1 with lazy continuation.\n\nTerm 2 with inline markup\n\nDefinition 2\n{ some code, part of Definition 2 }\nThird paragraph of definition 2.\n\n\nCompact style:\n\nTerm 1\n\nDefinition 1\n\nTerm 2\n\nDefinition 2a\n\n\nDefinition 2b\n\n\n\n\nAbbreviations\nThis is HTML abbreviation example.\nIt converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on.\n*[HTML]: Hyper Text Markup Language\n\n\nCustom containers\n\nhere be dragons\n\n\n\n\n\n\n\nCallout Note\n\n\n\nNote\n\n\n\n\n\n\n\n\nCallout Tip\n\n\n\nTip\n\n\n\n\n\n\n\n\nImportant\n\n\n\nImportant"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#footnotes",
+    "href": "posts/post-with-code/index.html#footnotes",
+    "title": "Post With Code",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFootnote can have markup\nand multiple paragraphs.↩︎\nFootnote text.↩︎\nText of inline footnote↩︎\nFootnote text.↩︎"
+  }
+]
