@@ -118,12 +118,14 @@ h1, h1 span.header-section-number{
 
 /* Heading 2 */
 h2, h2 span.header-section-number {
-  color: $darkgreen;
+  color: $darkblue;
+  
 }
 
 /* Heading 3 */
 h3, h3 span.header-section-number {
-  color: $darkpurple;
+  // color: $darkpurple;
+  color: $darkgreen;
 }
 
 /* Heading 4 */
