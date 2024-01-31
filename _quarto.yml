@@ -18,3 +18,5 @@ format:
     highlight-style: a11y-dark
     code-copy: true
 
+execute:
+  freeze: auto
