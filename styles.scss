@@ -61,7 +61,7 @@ $my-cornsilk: rgb(254, 249, 238);
 
 
 $primary:       $papaya-whip !default; // $blue
-$secondary:     $gray-200 !default; 
+$secondary:     $gray-200 !default;
 $success:       $green !default;
 $info:          $purple !default;
 $warning:       $yellow !default;
@@ -111,10 +111,6 @@ $popover-header-bg:                 transparent !default;
 
 
 /*-- scss:rules --*/
-/* Heading 1 */
-h1, h1 span.header-section-number{
-  color: $darkblue;
-}
 
 /* Heading 2 */
 h2, h2 span.header-section-number {
