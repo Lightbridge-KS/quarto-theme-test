@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2ba947ce-c23d-427a-b55a-8f2baba5c59b
+      url: 'https://quarto-theme-test.netlify.app'
